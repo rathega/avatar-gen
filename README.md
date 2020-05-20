@@ -2,8 +2,9 @@
 GitHub avatar generator
 
 Usage:
-cd src
+cd src/
 go run main.go
 
-Sample Output:
-image.png (in src)
+Sample Outputs:
+1. src/image.png
+2. my github avatar
